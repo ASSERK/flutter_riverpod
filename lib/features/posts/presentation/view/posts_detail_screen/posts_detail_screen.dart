@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:testpro/features/posts/presentation/viewmodel/posts_view_model.dart';
+import 'package:testpro/features/posts/presentation/viewmodel/posts_details_view_model.dart';
 
 class PostDetailScreen extends ConsumerWidget {
   final int postId;
